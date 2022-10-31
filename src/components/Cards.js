@@ -15,6 +15,32 @@ function Cards() {
                     label='Flowers'
                     path='/services'
                     />
+                    <CardItem 
+                    scr=""
+                    text="flower"
+                    label='Flowers'
+                    path='/services'
+                    />
+                </ul>
+                <ul className="cards__items">
+                    <CardItem 
+                    scr=""
+                    text="flower"
+                    label='Flowers'
+                    path='/services'
+                    />
+                    <CardItem 
+                    scr=""
+                    text="flower"
+                    label='Flowers'
+                    path='/services'
+                    />
+                    <CardItem 
+                    scr=""
+                    text="flower"
+                    label='Flowers'
+                    path='/services'
+                    />
                 </ul>
             </div>
         </div>
